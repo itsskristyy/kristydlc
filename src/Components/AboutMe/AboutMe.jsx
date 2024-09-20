@@ -13,7 +13,7 @@ const AboutMe = () => {
         Fargo. I am currently located in Charlotte, North Carolina. 
 
 
-        I love going on walks, watching tiktok and playing the sims 4
+        I love going on walks, watching tiktok and playing the
       </Container>
     </div>
   );
