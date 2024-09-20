@@ -1,0 +1,10 @@
+.aboutme {
+    display: flex;
+    justify-content: center;  /* Horizontally centers the image */
+    align-items: center;      /* Vertically centers the image */
+    height: 100vh;            /* Sets the container to take the full viewport height */
+}
+body, html {
+    margin: 0;
+    height: 100%;
+  }

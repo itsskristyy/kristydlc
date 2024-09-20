@@ -1,0 +1,20 @@
+.socialmedia{
+    font-size: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;  /* Horizontally centers the image */
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.connect{
+    font-size: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.a{
+    text-decoration: none; /* Removes the underline */
+    color: inherit;
+}
