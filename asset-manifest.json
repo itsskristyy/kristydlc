@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kdlc/static/css/main.ab8f0c3c.css",
+    "main.js": "/kdlc/static/js/main.3e4cdafd.js",
+    "static/js/453.a5c4363c.chunk.js": "/kdlc/static/js/453.a5c4363c.chunk.js",
+    "static/media/kristyname.png": "/kdlc/static/media/kristyname.61932a3578e73641257a.png",
+    "index.html": "/kdlc/index.html",
+    "main.ab8f0c3c.css.map": "/kdlc/static/css/main.ab8f0c3c.css.map",
+    "main.3e4cdafd.js.map": "/kdlc/static/js/main.3e4cdafd.js.map",
+    "453.a5c4363c.chunk.js.map": "/kdlc/static/js/453.a5c4363c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab8f0c3c.css",
+    "static/js/main.3e4cdafd.js"
+  ]
+}
