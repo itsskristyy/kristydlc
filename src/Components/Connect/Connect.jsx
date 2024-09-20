@@ -5,7 +5,6 @@ import { Container } from "@mui/material";
 import { FaSquareInstagram } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa6";
 import { FaSquareGithub } from "react-icons/fa6";
-
 import "../Connect/Connect.css";
 
 const Connect = () => {
